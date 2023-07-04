@@ -21,11 +21,11 @@ ul {
   display: flex;
   flex-direction: row;
   padding: 20px;
-  color: yellow;
 }
 li {
   list-style-type: none;
   margin: 20px;
+  color: yellow;
 }
 
 section {
